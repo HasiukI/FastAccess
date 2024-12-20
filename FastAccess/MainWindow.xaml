@@ -6,7 +6,10 @@
         xmlns:local="clr-namespace:FastAccess"
         xmlns:tb="http://www.hardcodet.net/taskbar"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        ShowInTaskbar="False"
+        Title="MainWindow" 
+        Height="450" 
+        Width="800">
     <Grid Background="Blue">
 
         <tb:TaskbarIcon
